@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2024wimi",
+      "defaultValue": "2024wila",
       "required": "true"
     },
     { "name": "Match Level",
