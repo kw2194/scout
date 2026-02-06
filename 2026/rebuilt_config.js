@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026wiapp",
+      "defaultValue": "2025wila",
       "required": "true"
     },
     { "name": "Match Level",
